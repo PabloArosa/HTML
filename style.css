@@ -248,4 +248,25 @@ form input[type="submit"] {
       opacity: 0;
     }
   }
+
+
+
+
+/* Colores para el archivo */
+body {
+    background-color: #E0F8F7;
+    color: #000000;
+  }
+
+  h1, h2, h3 {
+    color: #008080;
+  }
+
+  a {
+    color: #00FFFF;
+  }
+
+  .highlight {
+    background-color: #B2FFFF;
+  }
   
